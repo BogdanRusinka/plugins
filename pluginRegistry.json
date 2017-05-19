@@ -1,0 +1,95 @@
+{
+	"plugins": [
+		{
+			"name": "MonStor",
+			"target": "MonStor",
+			"author": "hackolade",
+			"authorRepo": "https://github.com/hackolade",
+			"version": "0.1.0",
+			"versionDate": "2017-05-13",
+			"description": "Hackolade plugin for MonStor",
+			"repository": "https://github.com/hackolade/MonStor"
+		},{
+			"name": "Oracle",
+			"target": "MonStor",
+			"author": "hackolade",
+			"authorRepo": "https://github.com/hackolade",
+			"version": "0.6.0",
+			"versionDate": "2017-05-13",
+			"description": "Hackolade plugin for Oracle",
+			"repository": "https://github.com/hackolade/MonStor"
+		},{
+			"name": "Miracle",
+			"target": "MonStor",
+			"author": "hackolade",
+			"authorRepo": "https://github.com/hackolade",
+			"version": "3.1.0",
+			"versionDate": "2017-05-13",
+			"description": "Hackolade plugin for Miracle",
+			"repository": "https://github.com/hackolade/MonStor"
+		},{
+			"name": "Localization - French",
+			"target": "MonStor",
+			"author": "hackolade",
+			"authorRepo": "https://github.com/hackolade",
+			"version": "0.1.2",
+			"versionDate": "2017-05-13",
+			"description": "Hackolade plugin for French Localization that is awesome!",
+			"repository": "https://github.com/hackolade/MonStor"
+		},{
+			"name": "Cassandra",
+			"target": "MonStor",
+			"author": "cassandra",
+			"authorRepo": "https://github.com/hackolade",
+			"version": "0.1.0",
+			"versionDate": "2017-05-13",
+			"description": "Hackolade plugin for Cassandra",
+			"repository": "https://github.com/hackolade/MonStor"
+		},{
+			"name": "Couchbase",
+			"target": "MonStor",
+			"author": "couchbase",
+			"authorRepo": "https://github.com/hackolade",
+			"version": "0.1.0=1",
+			"versionDate": "2017-05-13",
+			"description": "Hackolade plugin for Couchbase",
+			"repository": "https://github.com/hackolade/MonStor"
+		},{
+			"name": "RocksDB",
+			"target": "MonStor",
+			"author": "rocksdb",
+			"authorRepo": "https://github.com/hackolade",
+			"version": "1.1.0",
+			"versionDate": "2017-05-13",
+			"description": "Hackolade plugin for RocksDB",
+			"repository": "https://github.com/hackolade/MonStor"
+		},{
+			"name": "SQLite",
+			"target": "MonStor",
+			"author": "SQLite",
+			"authorRepo": "https://github.com/hackolade",
+			"version": "0.1.0",
+			"versionDate": "2017-05-13",
+			"description": "Hackolade plugin for SQLite",
+			"repository": "https://github.com/hackolade/MonStor"
+		},{
+			"name": "CouchDB",
+			"target": "MonStor",
+			"author": "couchdb",
+			"authorRepo": "https://github.com/hackolade",
+			"version": "2.4.0",
+			"versionDate": "2017-05-13",
+			"description": "Hackolade plugin for CouchDB",
+			"repository": "https://github.com/hackolade/MonStor"
+		},{
+			"name": "Redis",
+			"target": "MonStor",
+			"author": "redis",
+			"authorRepo": "https://github.com/hackolade",
+			"version": "5.1.0",
+			"versionDate": "2017-05-13",
+			"description": "Hackolade plugin for Redis",
+			"repository": "https://github.com/hackolade/MonStor"
+		}
+	]
+}
